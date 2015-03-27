@@ -1,0 +1,43 @@
+OpenStrategy
+============
+Jason Lynch <jason@calindora.com>
+:toc:
+:numbered:
+
+== Introduction
+
+Welcome to OpenStrategy, home of the walkthrough! That's the plan, anyway.
+Personally, I'm kind of strange and prefer to play games with some kind of
+walkthrough or strategy guide in hand. Unfortunately, while there are certainly
+plenty of well-written guides out there, there still remain two major problems
+in the strategy guide ecosystem:
+
+* Strict copyright enforcement has become incredibly pervasive. Instead of
+  sharing knowledge and trying to create the best guides possible, people are
+  locking down their content and restricting the availability. As such, any
+  walkthroughs on OpenStrategy are released under an open license.
+
+* Second, there is still a strong attachment to text-only documents. While a
+  well-formatted text document isn't necessarily difficult to read, it's no
+  longer 1987, and we're able to support much easier to use HTML documents.
+
+If you have any questions, comments or suggestions, please
+mailto:jason@calindora.com[contact me]. At the moment, I'm the only contributor,
+so new guides and updates will probably appear quite slowly, primarily for games
+I am personally interested in. Perhaps that will change in the future.
+
+== Guide Types
+
+I'm personally interested in three different types of guides:
+
+Perfect Game Walkthrough:: A detailed walkthrough usable by both casual players and those attempted so-called _perfect_ games.
+
+Speed Run Walkthrough:: A detailed walkthrough for learning a particular speedrunning route, along with more concise notes usable during a run.
+
+Reference Documents:: This encompasses a lot of things, but includes item and monster lists, game mechanics, and so on.
+
+== Walkthroughs
+
+=== SNES
+
+link:/guides/snes/usa/final-fantasy-iv.html[Final Fantasy IV (USA: Final Fantasy II)]
