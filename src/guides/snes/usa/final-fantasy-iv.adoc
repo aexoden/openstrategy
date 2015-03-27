@@ -1,0 +1,132 @@
+= Final Fantasy IV
+Jason Lynch <jason@calindora.com>
+v0, 2015-03-26
+:icons: font
+:numbered:
+:toc: right
+:openstrategy: https://openstrategy.calindora.com
+
+Originally released in the United States in 1991 as _Final Fantasy II_, _Final
+Fantasy IV_ was the first _Final Fantasy_ game released for the Super Nintendo
+Entertainment System. Featuring an engrossing story, a strong soundtrack and
+hours of gameplay, it was a groundbreaking entry in the role-playing video game
+genre, and maintains a loyal following nearly 25 years later.
+
+This guide strives to one day be the definitive guide to the game. Whether you
+are a casual player looking for a boss strategy or a seasoned veteran hoping to
+attempt a "`perfect game`", this guide will do its best to help you achieve your
+goals.
+
+If you have any questions, comments or suggestions, please
+mailto:{email}[email the author] or visit {openstrategy}[OpenStrategy].
+
+[CAUTION]
+.Under Construction
+This guide is currently an incomplete work in progress. There is almost
+certainly critical information missing and any existing information may be
+incorrect. Use this guide at your own risk.
+
+== Perfect Game Challenge
+
+IMPORTANT: Attempting a perfect game is not for the faint of heart. It can
+include a lot of resetting and farming for rare item drops. If this is your
+first playthrough, you may wish to complete a more traditional run.
+
+=== Definition
+
+Defining exactly what makes a particular save file "`perfect`" is clearly a
+subjective process. You may wish to use different criteria than those presented
+below. At the end of the day, _you_ are the one that has to be satisfied with
+the results.
+
+The following perfect game levels may be useful. Unless otherwise specified,
+each level includes the criteria from all previous levels. These levels are
+tentative and are subject to change.
+
+Level 0::
+  * Finish the game.
+
+Level 1::
+  * Level all characters to level 99.
+  * Have best regular equipment (not including rare item drops).
+  * Collect all treasure.
+  * Collect Rydia's storyline summons.
+  * Finish all side quests.
+
+Level 2::
+  * Maximize post-level 70 stat gains.
+  * Have at least one of each item. (If possible--this item is still being researched.)
+
+Level 3::
+  * Collect Rydia's item drop summons.
+  * Have the maximum possible of each item.
+  * Have best possible equipment.
+  * Maximize GP.
+
+Level 4::
+  * Maximize HP and MP.
+
+=== General Notes
+
+When playing through the game, please keep the following points in mind:
+
+* Starting at level 71, the stat gains characters receive are no longer fixed.
+  If you are interested in maximizing your characters' statistics, do not level
+  up beyond level 70 until you have familiarized yourself with the appropriate
+  information.
+
+* Very little is missable in this game, but please look out for _Perfect Game
+  Notes_ throughout the walkthrough. These will call out important items
+  relevant to players attempting a perfect game.
+
+=== Stat Maxing
+
+This section is under construction.
+
+== Walkthrough
+
+=== The Red Wings
+
+=== Cave of Mist
+
+=== Underground Waterway
+
+=== Antlion Cave
+
+=== Mt. Hobs
+
+=== Fabul
+
+=== Mt. Ordeals
+
+=== Return to Baron
+
+=== Troia
+
+=== Tower of Zot
+
+=== Eblan Side Trip
+
+=== Underground
+
+=== Tower of Babil
+
+=== Tower of Babil, Part Two
+
+=== Sylvan Cave
+
+=== Summoned Monsters
+
+=== Sealed Cave
+
+=== Excalibur
+
+=== The Moon
+
+=== Giant of Babil
+
+=== Return to the Moon
+
+=== Lunar Subterrane
+
+=== Lunar Core
