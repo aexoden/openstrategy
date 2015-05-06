@@ -62,9 +62,14 @@ Level 3::
   * Have the maximum possible of each item.
   * Have best possible equipment.
   * Maximize GP.
+  * Maximize EXP.
 
 Level 4::
   * Maximize HP and MP.
+
+Level 5::
+  * Maximize statistics and HP/MP of characters not in final party.
+  * Keep the ability to critically hit where possible.
 
 === General Notes
 
@@ -73,7 +78,8 @@ When playing through the game, please keep the following points in mind:
 * Starting at level 71, the stat gains characters receive are no longer fixed.
   If you are interested in maximizing your characters' statistics, do not level
   up beyond level 70 until you have familiarized yourself with the appropriate
-  information.
+  information. Keep in mind that unless you grind heavily, you will probably not
+  reach level 71 during the course of a normal playthrough.
 
 * Very little is missable in this game, but please look out for _Perfect Game
   Notes_ throughout the walkthrough. These will call out important items
@@ -83,9 +89,81 @@ When playing through the game, please keep the following points in mind:
 
 This section is under construction.
 
+== General Tips
+
+* Unless absolutely necessary, this walkthrough strives to be spoiler-free. Try
+  to read ahead to be sure you don't miss anything.
+
+* Save whenever you have a chance.
+
+* To be perfectly honest, you can beat this game without ever fighting a single
+  random encounter. That said, the boss fights will be more fairly balanced if
+  you fight every random encounter you come across. You shouldn't need to spend
+  any time grinding, unless you're trying to collect item drops.
+
 == Walkthrough
 
 === The Red Wings
+
+After you begin a new game, watch the introduction. Eventually, you will gain
+control inside a castle.
+
+==== Castle Baron
+
+Items: 300GP, Cure1, Tent
+
+You can travel to either side of the room to talk to some people. When you're
+ready, go south. The two staircases offer more conversation. Move to the right
+side of the room and press the switch on the wall directly north of the soldier.
+Inside are three treasure chests containing 300GP, a Cure1, and a Tent. You can
+continue up the stairs to the right, but there is only more conversation. To the
+south is the exit of the castle, but they won't let you leave yet.
+
+From the room with the three treasure chests, go up the staircase on the far
+left and make your way to the next room. Continue south, where a brief scene
+will occur. Continue south to the next room. The door on the left leads to the
+prison, where you can have some brief conversations. Back outside, head north
+for another scene. The right door leads to more brief conversations. Afterward,
+continue north into the tower. The first floor is empty, so go up the stairs to
+the second floor. Talk to the woman, and head up the next flight of stairs.
+Continue left to the bed for a longer scene.
+
+When you regain control, you're outside Castle Baron. Enter the Town of Baron to
+either side of you.
+
+==== Town of Baron
+
+Items: Cure1, Cure1, Tent, Heal, Cure1, Cure1, Ether1, Tent, Heal, Heal, Life, Tent, Tent
+
+Head up and to the right. The pot near the Inn entrance has a Cure1. Inside the Inn, the pot on the left next to the logs has another Cure1. You can pointlessly stay at the Inn for 50GP if you desire. To the north, there's a room with three treasure chests. Open the door by using the two swords on the wall. The chests contain a Tent, a Heal, and a Cure1. Outside the Inn, the next building to the left is the Training Room. You can talk to the people there for various gameplay tips. You can also change your character's name by talking to Namingway on the left side of the ground floor. The second floor has more people to talk to.
+
+The next building to the left is the Item Shop. (Cure1 30GP, Life 150GP, Tent 200GP, Carrot 50GP, Heal 100GP, Ether1 10000GP) The next building to the left is the Serpent Road. It's currently useless. Moving north, the door in the big wall is locked, so head up the stairs to the building there. You can check out the bookshelves or talk to the people, but not much else. Heading east from the bottom of the stairs outside, the weapon and armor shop is locked. The bottom pot to the right contains a Cure1. The building next to the pots has another person to talk to, as well as an Ether1 in the bookshelf and a Tent in the far left pot.
+
+Leaving the house, go right across the bridge. You can talk to the old woman, but then head directly north of her. When you reach the trees, head east, north, west, down and west again into a grassy field. There's a Heal at the very bottom, another Heal at the top toward the left, and a Life at the bottom left of the grass.
+
+Return through the secret passage, cross the bridge to the west, and head north across the other bridge and up the stairs. You can talk to the woman there to see a brief show. Head down the stairs into the water and follow the path to a small pond at the bottom right of the map. You'll run into a hidden Tent. There is another Tent toward the bottom two columns to the east. That's everything in this town for now, so leave the town.
+
+==== Overworld
+
+Enemies: FloatEye, Imp, ?
+
+Out on the overworld, you can walk around and explore, but there are really only two places to go. Head west and south to a circular forest.
+
+==== Chocobo's Forest
+
+Items: Carrot
+
+Inside the Chocobo's Forest, you can talk to yellow chocobos to take them for a ride, or you can talk to the white chocobo to restore your (currently nonexistent) MP. Explore the grass to find a Carrot. If you head to the top of the forest, and use the Carrot when prompted, you can speak to the Big Chocobo. Final Fantasy IV only lets you carry 48 items in your active inventory, so sometimes it can be useful to shuffle off items to the Big Chocobo. Keep in mind that you can only access these items at the Big Chocobo, so don't put anything there you might need in the immediate future. For now, you still have plenty of inventory space, so you can probably just ignore the whole thing.
+
+[CAUTION]
+.Perfect Game Note
+The key to never selling any items is to store your extra items with the Big Chocobo. TODO: Figure out what items can be sold and such.
+
+When ready, leave the forest, either with a chocobo or by walking.
+
+==== Overworld
+
+From the forest, travel north, west across the bridge, and then west in between the mountains. Follow the path west and north to a cave. Rest if necessary, save your game, and then enter the cave.
 
 === Cave of Mist
 
@@ -130,3 +208,7 @@ This section is under construction.
 === Lunar Subterrane
 
 === Lunar Core
+
+== Changelog
+
+== License

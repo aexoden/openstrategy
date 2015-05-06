@@ -1,0 +1,1 @@
+: README.adoc |> asciidoctor %f -o %o |> src/index.html
