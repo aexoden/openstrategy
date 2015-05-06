@@ -41,3 +41,9 @@ Reference Documents:: This encompasses a lot of things, but includes item and mo
 === SNES
 
 link:/guides/snes/usa/final-fantasy-iv.html[Final Fantasy IV (USA: Final Fantasy II)]
+
+== Speed Run Walkthroughs
+
+=== SNES
+
+link:/guides/snes/usa/final-fantasy-iv-any-no64.html[Final Fantasy IV (USA: Final Fantasy II) Any% No 64]

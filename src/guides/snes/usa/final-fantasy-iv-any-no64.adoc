@@ -1,0 +1,915 @@
+= Final Fantasy IV Any% No 64 Speed Run
+Jason Lynch <jason@calindora.com>
+:numbered:
+:toc:
+
+These notes detail the Final Fantasy IV Any% No 64 speed run route. The 64-Floor
+Hierarchy glitch is disallowed, but every other glitch is fair game. Several of
+these glitches are used, including the MP Underflow and Dark Crystal Warp
+glitches.
+
+These notes are based originally on notes created by Obadjr and modified by
+neerrm, but they have been enhanced and modified through my own research as well
+as the work of numerous other Final Fantasy IV speed runners, including but not
+limited to AznBlusuazn, catastrophic4 and nocashnocash.
+
+I personally find these notes useful, but keep in mind that I am currently 30
+minutes off the world record in this category. There are probably better ways
+to do things.
+
+== General Provisions
+
+In order to simplify the notes as much as possible, the following general
+provisions should be kept in mind during the run:
+
+* These notes assume a decent level of familiarity with the game. Unless
+  otherwise noted, continue with the story as normal.
+
+* Unless otherwise noted, run from all battles. For most of the game, the
+  standard L+R running technique shall be sufficient. Exceptions will be noted
+  as they occur.
+
+* While detailed command sequences are provided, the ordering may not be exact.
+  It is recommended to practice battles numerous times in order to experience
+  whatever variation may occur. In addition, variance in damage may result in a
+  battle being longer or shorter than expected.
+
+== Item Duplication
+
+Several times during the run, you will need to duplicate items. The first step
+in the process is always the same:
+
+* During battle, open the item menu, and select an open slot other than the
+  the first one. Move up to the top and select the equipment slot (either your
+  weapon or shield) that you want to duplicate.
+
+This completes the so-called "Single Duplication" process. In most cases,
+however, you will want to complete the full duplication process, which includes
+the following step:
+
+* Select the empty equipment slot you just removed equipment from and move down
+  and select the same empty slot you selected earlier (it should now be the
+  first empty slot, as the previous first one has been filled with the equipment
+  you previously had equipped).
+
+The above process glitches the number of weapons or shields the character has
+equipped. It doesn't affect the actual item inventory or duplicate any items
+until you actually equip something from the inventory. In the single duplication
+case, equipping an item will result in 2 of the item being equipped.
+
+In the full duplication case, you should equip once, and immediately unequip
+into the same slot. At this point, you will have an invisible item in the
+inventory, which can be sold for large amounts of money. Alternatively, you can
+immediately equip from that empty slot which will leave you with 255 of the item
+in question in your inventory, as well as one equipped.
+
+== Walkthrough
+
+This section provides detailed notes to get through the run. Each section
+represents one segment of the run. While a true run completes the game in a
+single uninterrupted segment, these shorter segments may be useful for either
+practice or for completing a multi-segment run of the game.
+
+=== Beginning to Mist
+
+* Immediately after gaining control, set battle speed and battle message to 1.
+* Collect the tent in Castle Baron (rightmost chest in small room on 1F).
+* Head to Cecil's room and finish the introduction.
+* Go to the chocobo forest and pick up the carrot.
+* Ride a yellow chocobo to the Misty Cave.
+
+.D. Mist (465 HP)
+****
+Party:: *Kain (10:2300) / empty / *Cecil (10:3000) / empty / *empty
+----
+Kain:   Jump
+Cecil:  Fight
+Cecil:  Fight
+Kain:   Fight
+Cecil:  Fight
+Kain:   Jump
+Cecil:  Fight
+
+(Turned to mist)
+
+Cecil:  Parry
+Kain:   Wait until note before first high long note (approximately 8.5 seconds)
+        Jump
+Cecil:  Wait for "Now, get ready to fight!"
+        Duplicate shield slot
+        Fight
+Cecil:  Fight
+Kain:   Jump
+Cecil:  Fight (0.04%)
+Cecil:  Fight (1.33%)
+Kain:   Jump (44.80%)
+Cecil:  Fight (27.18%)
+Cecil:  Fight (16.47%)
+Kain:   Jump (10.09%)
+Cecil:  Fight (0.32%)
+Cecil:  Fight (0.05%)
+Kain:   Fight (0.02%)
+----
+****
+
+* After exiting the cave, one step before Mist, turn left, hold X, and use a tent.
+* During the tent, hold right, and once you start moving, hold X again.
+* Unequip Kain: Iron (glove)
+* Equip and unequip the Shadow (shield).
+* Save the game, reset, reload, walk past Mist, and then back into the town.
+* Sell the empty slot where the Shadow (shield) was.
+* Buy 10 Dancing (dagger).
+* Head to the northwest house and collect the Tiara and Change (rod).
+* Exit the house and trigger the scene.
+
+.Girl
+****
+Party:: *Kain (10:2650) / empty / *Cecil (11:3350) / empty / *empty
+Inventory:: Move Dancing and Tiara to top left, Change to top right, and Carrot above Iron (glove).
+
+Perform inventory management during Titan's animation. Wait for battle to end.
+****
+
+=== Mist to Damcyan
+
+* Travel to Kaipo and enter the town.
+
+.Officer/Soldiers
+****
+Party:: *empty / empty / *Cecil (11:3350) / empty / *empty
+Shadow Party:: Kain (10:2650)
+
+Use run buffering on Cecil's turn, and attack the soldiers.
+****
+
+* Switch rows and move Cecil up one slot. (Form, Left, Down, A, A)
+* Equip Rydia: any/any/Tiara/any/any
+* Visit Rosa in northeast house.
+* Step to the right just before exiting Kaipo.
+* Head to the Underground Waterway and recruit Tellah.
+* Continue through the cave, collecting Darkness (sword) near the exit.
+
+.Octomamm (2350HP)
+****
+Party:: Rydia (1:0) / *Cecil (11:3830) / Tellah (20:54873) / *empty / empty
+Shadow Party:: Kain (11:3130)
+Inventory:: Move Shadow (sword), Rod to bottom.
+----
+Cecil:  Equip Darkness
+        Fight
+Tellah: Equip Change
+        Cast Lit-1
+Rydia:  Equip Dancing
+        Use Dancing
+Cecil:  Fight
+Tellah: If Rydia dead, Life1 Rydia, else Lit-1
+Cecil:  Fight
+Rydia:  Use Dancing
+Tellah: If Rydia weak, Cure2 All, else Lit-1
+Cecil:  Fight
+Tellah: Equip Staff
+        Life1/Cure2 Rydia if needed, else Stop Tellah
+Cecil:  Inventory Management
+        Fight
+Rydia:  Use Dancing
+Tellah: Parry
+----
+Repeat the last three commands until the battle is over. Attempt to do
+inventory management during spell animations.
+****
+
+* Leave the cave and approach Damcyan, performing the optional clip if desired.
+
+[TIP]
+To skip the Damcyan bombing animation, as you step into the square between the
+mountains before the last grass tile, continue to hold Up and hold X to access
+the menu. Save and reload. You should be able to proceed without triggering the
+animation. This saves a few seconds at most.
+
+* Head to the top of the castle and watch the scene.
+
+=== Damcyan to Kaipo (via Antlion)
+
+* Travel to the Antlion cave and head directly to Antlion.
+* If Rydia is dead, get Life1 directly along path.
+
+.Antlion (1000HP)
+****
+Party:: Rydia (4:400) / *Cecil (11:4230) / Edward (5:388) / *empty / empty
+Shadow Party:: Kain (11:3530) / Tellah (20:55273)
+Inventory:: Move Dreamer to bottom (trashcan).
+----
+Cecil:  Parry
+Edward: Equip Dancing
+        Use Dancing
+Rydia:  Use Dancing
+Cecil:  Inventory Management
+        Parry
+Edward: Use Dancing
+Cecil:  Parry
+Rydia:  Use Dancing
+----
+****
+
+* Leave the cave, return to Kaipo, and park directly to the left of the town.
+
+=== Kaipo to Fabul
+
+* Use SandRuby on Rosa.
+
+.WaterHag
+****
+Party:: empty / *empty / Edward (6:888) / *empty / empty
+Shadow Party:: Kain (11:4030) / Tellah (20:55773)
+
+Hold down A to have Edward repeatedly Fight.
+****
+
+* Step to the left just before exiting Kaipo.
+* Travel to Mt. Hobs and climb to the top.
+
+.MomBomb (800HP, Grey: 100HP, Red: 50HP)
+****
+Party:: Rydia (6:900) / *Cecil (12:4730) / Edward (8:1688) / *Yang (10:2061) / Rosa (10:2139)
+Shadow Party:: Kain (12:4830) / Tellah (20:56573)
+Inventory:: Move TrashCan below Iron, Iron below TrashCan, Carrot down, Change down, Dancing Right
+----
+Edward: Use Dancing
+Cecil:  Fight
+Yang:   Fight
+Rydia:  Use Dancing
+Rosa:   Cure1 Rydia/Edward/Cecil/Yang
+Edward: Use Dancing/Parry
+Cecil:  Fight/Parry
+Yang:   Inventory Management
+        Wait for "Explode"
+        Kick
+Rydia:  Use Dancing (grey)
+Edward: Use Dancing (grey)
+Rosa:   Aim (red)
+Cecil:  Fight (red)
+Yang:   Fight (red)
+----
+Repeat the final sequence until the battle is over.
+****
+
+* Head down the other side of the mountain and go onward to Fabul.
+
+=== Fabul to Mysidia
+
+.Fabul Battles
+****
+Party:: empty / *Cecil (12:5222) / Edward (9:2180) / *Yang (10:2553) / empty
+Shadow Party:: Kain (13:5322) / Tellah (20:57065) / Rosa (10:2631)
+
+For the General/Fighters battles:
+
+----
+Edward: Run Buffer
+        Use Dancing (Fighter)
+Yang:   Fight
+Cecil:  Fight
+----
+
+For the Weeper/Hag/Imp battles:
+
+----
+Edward: Use Dancing (Weeper)
+Cecil:  Fight (WaterHag)
+Yang:   Fight (Imp Cap.)
+----
+
+For the Gargoyle battle:
+
+----
+Edward: Use Dancing
+----
+
+If you have any remaining inventory management, complete it now during the
+Retreat or Dancing animations.
+****
+
+.Kain
+****
+Party:: empty / *Cecil (13:6473) / empty / *empty / empty
+Shadow Party:: Kain (13:6573) / Tellah (20:58316) / Rosa (11:3882)
+----
+Cecil:  Fight (Cecil)
+----
+****
+
+* Leave the crystal room, and rest at the Inn.
+* Equip Rydia: any/any/Cap/any/any
+* Equip Cecil: Black/any/any/any/any
+* Leave Fabul and board the ship.
+* After the scenes, enter Mysidia.
+
+=== Mysidia to Baron
+
+* Buy 99 Cure2, 99 Life1, 99 Heal, 99 Ether1
+* Buy 10 Gaea (helm), 10 Gaea (armor), 10 Silver, 1 Paladin (shield), 1 Paladin (arms)
+* Talk to Elder.
+* Travel to Mt. Ordeals, climb, and recruit Tellah.
+* Make sure Porom gets hurt.
+* Continue until even with final bridge.
+* Equip Porom: any/any/Tiara/Gaea/Silver
+* Equip Palom: any/Change/Gaea/Gaea/Silver
+* Equip Tellah: any/any/Gaea/any/Silver
+* Inventory: Cure2/Life/Heal/Ether1 to first four on left
+* Fully heal party, except Porom.
+
+.Milon (3100HP)
+****
+Party:: Porom (10:1957) / *Cecil (13:6473) / Palom (10:1957) / *empty / Tellah (20:58316)
+Shadow Party:: Kain (13:6573) / empty / Rosa (11:3882) / Yang (11:3804) / Rydia (7:1392)
+----
+Cecil:  Use Cure2 Ghast
+Palom:  Ice-1 Porom
+Porom:  Run Buffer
+        Twin
+Tellah: Use Life Porom
+Cecil:  Use Cure2 Ghast
+Cecil:  Parry
+Tellah: Wait 2 seconds
+        Stop Cecil
+Porom:  Run Buffer
+        Fight Milon
+Cecil:  Equip Darkness if doing TrashCan in next battle
+        Half-use Heal
+        Swap Heal and Carrot
+----
+****
+
+* Fully heal the party, except Cecil.
+* Piggy Cecil/Tellah.
+* Switch rows.
+
+.Milon Z (3000HP)
+****
+Party:: *Porom (11:2907) / Cecil (13:7423) / *Palom (11:2907) / empty / *Tellah (20:59266)
+Shadow Party:: Kain (14:7523) / empty / Rosa (13:4832) / Yang (12:4754) / Rydia (9:2342)
+Inventory:: Move Rod, Leather (helm), Leather (armor), IronRing, TrashCan to bottom. Move Paladin (shield), Gaea (helm) near top. Clear three near top spots.
+
+For Milon Z, there are two options. Here is the TrashCan strat:
+
+----
+Cecil:  Fight Cecil (if needed)
+Palom:  Ice-2 Porom
+Porom:  Wait 1 second
+        Twin
+Tellah: Fight
+Cecil:  Half-Use Ether1
+        Swap Ether1 and TrashCan
+        Item management during animations.
+----
+
+If TrashCan fails or you otherwise can't do it, use the following instead:
+
+----
+Cecil:  Fight
+Cecil:  Fight
+Porom:  Cure2 (item) Milon Z
+Palom:  Twin
+Tellah: If needed use Heal/Cure2, else Use Cure2 Milon Z
+Cecil:  Inventory management during Flare/Comet
+        Fight
+Tellah: If needed use Heal/Cure2, else Use Cure2 Milon Z
+Porom:  Use Cure2 Milon Z
+Palom:  Twin
+Cecil:  Inventory management during Flare/Comet
+        Fight
+----
+Repeat the sequence if necessary.
+****
+
+* Enter the tomb.
+
+.D.Knight (1000HP)
+****
+Party:: *empty / Cecil (1:0) / *empty / empty / *empty
+Shadow Party:: Kain (14:8523) / empty / Rosa (13:5832) / Yang (13:5754) / Rydia (10:3342)
+----
+Cecil:  Equip Dancing
+        Use Dancing
+Cecil:  Equip Paladin (shield)
+        Use Dancing
+Cecil:  Use Dancing
+Cecil:  Use Dancing
+----
+****
+
+* Return to Mysidia via Chocobo.
+* Talk to the Elder, and then go to Baron via Serpent Road.
+
+=== Baron to Toroia
+
+* Head to the back of the Inn and talk to Yang.
+
+.Guards (200HP)
+****
+Party:: *Porom (12:3907) / Cecil (1:0) / *Palom (12:3907) / empty / Tellah (20:60266)
+Shadow Party:: Kain (14:8523) / empty / Rosa (13:5832) / Yang (13:5754) / Rydia (10:3342)
+----
+Cecil:  Use Dancing
+Palom:  Equip Dancing
+        Use Dancing
+----
+****
+
+.Yang
+****
+----
+Cecil:  Parry
+Palom:  Parry
+Porom:  Parry
+Tellah: Wait for first kick
+        Equip Change
+        Parry
+Cecil:  Wait for second kick
+        Fight
+----
+****
+
+* Buy ThunderRod, IceClaw, Thunder (claw)
+* Buy 10 Headband, 10 Karate
+* Enter Old Water-way and head to Castle Baron 1F.
+* Underflow Tellah's MP and heal Cecil/Tellah.
+* Equip Porom: any/any/Gaea/any/any
+* Equip Cecil: Legend/any/Headband/Karate/Paladin
+* Equip Yang: Thunder/IceClaw/Headband/Karate/Silver
+
+.Baigan (3500HP, 350HP, 350HP)
+****
+Party:: *Porom (12:3907) / Cecil (1:0) / *Palom (12:3907) / Yang (13:5754) / *Tellah (20:60266)
+Shadow Party:: Kain (14:8523) / empty / Rosa (13:5832) / empty / Rydia (10:3342)
+Optimal Alive:: Cecil, Tellah
+Inventory:: Move Baron, Staff, Darkness (sword) to bottom. 
+----
+Cecil:  Cover Tellah
+Yang:   Fight Porom/Yang
+Palom:  Use Dancing Porom/Yang/Palom
+Tellah: Meteo
+Cecil:  Fight Porom/Yang/Palom
+Cecil:  Inventory management during Meteo
+----
+****
+
+* Life1 Yang and Cure2 Cecil/Tellah.
+* Switch rows.
+
+.Kainazzo (4000HP)
+****
+Party:: Porom (12:3907) / *Cecil (10:2410) / Palom (12:3907) / *Yang (13:5754) / Tellah (20:62676)
+Shadow Party:: Kain (16:10933) / empty / Rosa (14:8242) / empty / Rydia (12:5752)
+Optimal Alive:: Cecil, Tellah
+Inventory:: Move Cloth, Dancing (single) to bottom.
+----
+Cecil:  Fight
+Yang:   Fight
+Tellah: Lit-3
+Cecil:  Inventory management during Wave
+        Cure2/Fight
+Tellah: Lit-3
+Cecil:  Inventory management during death
+----
+****
+
+=== Toroia to Zot
+
+* After the scene, head to Toroia and visit Edward.
+* Ether1 Tellah.
+* Cast Exit.
+* Head north to Chocobo Forest, get a black chocobo, and travel to Cave Magnes.
+* Walk to the crystal room.
+* Equip Cid: any/any/Headband/Karate/Iron
+* Talk to the Dark Elf. After the scene, talk to him again.
+
+.Dark Elf (2000HP pre-change)
+****
+Party:: empty / *Cecil (13:5160) / Cid (20:26754) / *Yang (13:5754) / Tellah (21:65426)
+Shadow Party:: Kain (17:13683) / empty / Rosa (15:10992) / empty / Rydia (13:8502)
+Optimal Alive:: Cecil, Yang, Tellah
+Inventory:: Consolidate empty spots. Clear four spots near top.
+----
+Cecil:  Fight
+Yang:   Fight
+Cid:    Fight
+Tellah: Virus Cid
+Cecil:  Fight
+Yang:   Fight
+Cecil:  Fight
+Tellah: Wait for "ME CHANGE!"
+        Weak Dark Dragon
+Cecil:  Wait for Weak
+        Fight
+----
+****
+
+* After the battle, get the crystal and leave the crystal room.
+* Cast Exit
+* Head back to Toroia and visit the clerics.
+* Cast Exit
+* Board your airship and arrive at the Tower of Zot.
+
+=== Tower of Zot to Castle of Dwarves
+
+* Head to Fire (sword) chest and heal party except Cid.
+
+.FlameDog
+****
+Party:: empty / *Cecil (14:7160) / Cid (20:26754) / *Yang (14:7754) / Tellah (21:67426)
+Shadow Party:: Kain (17:15683) / empty / Rosa (16:12992) / empty / Rydia (14:10502)
+Inventory:: Clear four spots on top right.
+----
+Cecil:  Fight
+Yang:   Fight
+Tellah: Ice-1
+Cecil:  Fight
+----
+****
+
+* Head to the top floor.
+* Life1 Cecil/Yang/Tellah.
+* Make sure three spots are clear near top.
+* Underflow Tellah's magic and cure Cecil/Tellah.
+
+.Magus Sisters (2200HP, 4300HP, 2500HP)
+****
+Party:: empty / *Cecil (14:7733) / Cid (20:26754) / *Yang (14:8327) / Tellah (21:67999)
+Shadow Party:: Kain (17:16256) / empty / Rosa (16:13565) / empty / Rydia (15:11075)
+Optimal Alive:: Cecil, Tellah
+Inventory:: Move Legend, IceClaw to bottom.
+----
+Cecil:  Cover Tellah
+Yang:   Wait for dialogue
+        Duplicate IceClaw slot
+        Fight Yang
+Tellah: Equip ThunderRod
+        Meteo
+Cecil:  Single Duplicate weapon slot
+        Cure2 Tellah else Parry
+Yang:   Fight Yang
+Cecil:  Wait for Meteo
+        Inventory management
+----
+****
+
+* Enter the door, head right and up and watch the scene.
+* Talk to Kain, and watch the next scene.
+* Cure party to full.
+* Equip Cecil: Fire/any/any/any/any
+* Equip Cecil: Dancing/any/any/any/any
+* Equip Rosa: any/any/Gaea/Gaea/Silver
+* Equip Kain: any/Fire/Headband/Karate/any
+* Switch rows, Swap Kain/Cid, Swap Cecil/Rosa, Swap Yang/Cecil
+
+.Valvalis (6000HP)
+****
+Party:: *Cid (20:26754) / Rosa (18:18065) / *Kain (19:20756) / Cecil (16:12233) / *Yang (14:8327)
+Shadow Party:: empty / empty / empty / empty / Rydia (16:15575)
+Inventory:: Move Wind, Silver, Gaea (armor), Headband, Karate to bottom.
+* If for some reason your Kain is only level 18, only jump every other turn.
+* Wait on Cecil for Kain's jump to finish.
+----
+Kain:   Jump
+Cecil:  Wait for Jump
+        Use Dancing
+Yang:   Fight
+Rosa:   Slow
+Cid:    Fight
+Kain:   Jump
+Cecil:  Use Dancing
+Yang:   Fight
+Rosa:   Slow
+Cid:    Fight/Parry
+Kain:   Jump
+Cecil:  Wait for Jump
+        Use Dancing
+Yang:   Fight
+Rosa:   Cure2 Cecil/Heal/Parry
+Cid:    Fight
+Kain:   Jump
+Cecil:  Use Dancing
+Yang:   Fight
+Rosa:   Cure2 Cecil/Heal/Parry
+Cid:    Fight/Parry
+Kain:   Jump
+----
+****
+
+* After the scenes, exit Castle Baron and head to Agart.
+* Use Magma on the well, and go underground.
+
+=== Castle of Dwarves to Tower of Bab-il
+
+* Swap Cid/Cecil, Swap Rosa/Cid
+* Recommend a safety save at this point.
+* Head inside the castle and talk to the king.
+
+.Calbrena (Orange: 300HP, Blue: 1000HP)
+****
+Party:: *Cecil (17:14133) / empty / *Kain (19:22656) / Rosa (18:19965) / *Yang (15:10227)
+Shadow Party:: empty / Cid (20:28654) / empty / empty / Rydia (16:17475)
+----
+Kain:   Jump Blue
+Cecil:  Use Dancing Orange
+Yang:   Fight Cecil's Orange/other Orange
+Rosa:   Slow
+Cecil:  Use Dancing Kain's Blue/other Blue
+Kain:   Jump Blue
+Yang:   Fight Orange
+Rosa:   Cure2 Cecil if below 650, else Mute
+Cecil:  Use Dancing Blue
+Yang:   Fight Orange
+----
+Attempt to kill the last blue and the last orange at the same time.
+****
+
+.Golbez (2000HP)
+****
+Party:: *Cecil (17:15633) / Rydia (17:18975) / *Kain (19:24156) / Rosa (19:21465) / *Yang (16:11727)
+Shadow Party:: Cid (20:30154)
+Inventory:: Move Change, Prisoner, Tiara to top. Move Dancing (single), Wind, Silver, Gaea (armor), Headband, Karate to bottom.
+----
+Kain:   Run Buffer
+        Jump
+Cecil:  Equip Fire (sword)
+        Inventory management
+        Wait until "And you, Cecil!"
+        Fight
+Kain:   Fight
+Cecil:  Fight
+Rydia:  Parry
+----
+****
+
+* Cast Warp to get crystal.
+* Buy 10 Rune
+* Get Strength (ring) from top floor of right tower.
+* Heal at the pot in the underground.
+* Walk to the Tower of Bab-il.
+
+=== Tower of Bab-il to Eblan
+
+* Go to 3F, get the CatClaw.
+* Equip Yang: any/CatClaw/any/any/any
+* Equip Kain: any/any/any/any/Strength
+* Equip Rydia: Change/any/Tiara/Prisoner/Rune
+* Equip Rosa: any/any/any/any/Rune
+* Swap Kain/Yang
+* Head to just before Lugae.
+* Fully heal the party.
+* Advance on Lugae.
+
+.Dr. Lugae (Dr. Lugae: 4416HP, Balnab: 4000HP)
+Party:: *Cecil (19:22299) / Rydia (19:25641) / *Yang (16:11727) / Rosa (19:21465) / *Kain (21:30822)
+Shadow Party:: Cid (21:36820)
+Inventory:: Move Darkness, Silver, Whip, Fire, Prisoner to bottom.
+****
+----
+Yang:   Fight Balnab (hold A)
+Cecil:  Equip Dancing
+        Use Dancing Lugae
+Kain:   Jump Lugae
+Rydia:  Inventory management
+        Wait for "Beat them up!"
+        Titan
+Rosa:   Cure2 non-critical/Parry
+Yang:   Fight Lugae
+Cecil:  Use Dancing Lugae
+Kain:   Jump Lugae
+Yang:   Fight Balnab
+Rosa:   Parry
+Cecil:  Use Dancing Lugae
+----
+****
+
+.Lugae (6600HP)
+****
+----
+Yang:   Fight
+Cecil:  Use Dancing
+Kain:   Jump
+Rydia:  Titan
+Rosa:   Life1
+Yang:   Fight
+Cecil:  Life1 Rosa/Use Dancing
+Kain:   Jump
+Rosa:   Parry/Life1/Cure2
+Yang:   Fight
+Rydia:  Titan
+----
+****
+
+* After the battle, return to the cannon room.
+
+.Dark Imps
+****
+Party:: *Cecil (20:25299) / Rydia (19:28641) / *Yang (17:14727) / Rosa (19:24465) / *Kain (21:33822)
+Shadow Party:: Cid (22:39820)
+----
+Yang:   Fight
+Cecil:  Fight
+Kain:   Fight
+Rydia:  Ice-1
+----
+****
+
+* Watch the scene, then leave the tower.
+* After the next scene, travel to Baron and talk to Cid's assistants.
+* Pick up the hovercraft, travel to the Eblan Island and enter the cave.
+
+=== Eblan to Moon
+
+* Buy Ice (shield)
+* Buy IceBrand, Blizzard
+* Proceed through the cave to meet Edge.
+* Equip Edge: CatClaw/CatClaw/any/any/any
+* Swap Rydia/Edge, Swap Edge/Kain, Swap Kain/Rosa.
+* Head through the tower to meet Edge's parents.
+
+.K. Eblan/Q. Eblan
+****
+Party:: *Cecil (20:26463) / Rosa (20:25629) / *Rydia (19:29805) / Kain (22:34986) / *Edge (25:64777)
+Shadow Party:: Cid (20:26754)
+Inventory:: Leave two empty spots near top right. Move Dancing (single), CatClaw, Fire, Short, Paladin (shield) to bottom. Move Dancing to top right.
+----
+Edge:   Parry
+Kain:   Equip Blizzard
+        Parry
+Rydia:  Parry
+Cecil:  Equip IceBrand/Ice (shield)
+        Parry
+----
+At this point, simply wait the battle out. Edge can dart extra blades, and take
+advantage of the time to complete any inventory management.
+****
+
+.Rubicant (25200HP)
+****
+----
+Edge:   Flood
+Kain:   Run Buffer
+        Jump
+Rydia:  Ice-2
+Cecil:  Fight
+Rosa:   Cure
+----
+Detailed strategy forthcoming. Need to unequip Change if possible.
+****
+
+* Enter the crystal room and exit the tower.
+* Fly to the Castle of Dwarves and talk to Cid.
+* Unequip Kain: Strength
+* Cast Exit.
+* Fly to Land of Monsters and save before entering.
+* Proceed through the cave to the Town of Monsters.
+* Get the rat tail.
+* Cast Exit.
+* Fly to the Sealed Cave.
+* Fly back to the Castle of Dwarves and go to the throne room.
+* Cast Exit.
+* Fly to the overworld and switch airships, taking the hovercraft to Mythril.
+* Exchange the rat tail for Adamant.
+* Fly to Mysidia and watch the scene.
+* Fly to Kokkol and get Excalbur.
+* Fly back to the surface, switch to the Big Whale and fly to the moon.
+
+=== Moon to Moon, Part 2
+
+* Fly to the Hummingway Cave
+* Buy: 50+ Elixir
+* Go to the Crystal Palace and recruit FuSoYa.
+* Return to Earth and enter the Giant.
+* Head to Passage inside the Giant.
+* Cure party to maximum and underflow FuSoYa's MP.
+* Equip Rydia: Dancing/any/any/any/any
+* Equip FuSoYa: Change/any/Gaea/any/Rune
+* Equip Rosa: Lunar/any/Wizard/any/any
+* Swap Cecil/Edge, Swap Rydia/FuSoYa, Swap Rydia/Cecil
+* Head to the save point and save.
+
+.Searcher/Beamer/(D. Machin)
+****
+Party:: *Edge (25:69777) / Rosa (21:30629) / *FuSoYa (50:1007865) / Cecil (21:31463) / *Rydia (20:34805)
+Shadow Party:: Kain (22:39986) / Cid (20:31754)
+* FuSoYa casts Quake.
+* Repeat: Fight Searcher/Weak D. Machin/Fight
+* Use Life on D. Machin once or twice.
+* Kill at least 15 dragons.
+* Cecil duplicates weapon slot.
+* Cast Weak on Searcher.
+* Kill everyone but Edge.
+* Finish battle.
+****
+
+* Elixir Edge if necessary.
+* Equip Cecil: Excalbur/any/any/any/any
+* Head to the Elements battle.
+* Move Excalbur and Elixir to top of inventory.
+
+.Elements (65000HP)
+****
+Party:: *Edge (48:716977) / Rosa (21:30629) / *FuSoYa (50:1007865) / Cecil (21:31463) / Rydia (20:34805)
+Shadow Party:: Kain (48:687186) / Cid (46:678954)
+----
+Edge:   Dart Excalbur
+FuSoYa: Fire3
+Rydia:  Use Dancing Rydia
+Rosa:   Slow
+Cecil:  Cover Rosa
+Edge:   Dart Excalbur
+FuSoYa: Wall FuSoYa
+Edge:   Dart Excalbur
+Rosa:   Elixir/Slow
+Cecil:  Elixir
+FuSoYa: Ice3 FuSoYa
+Edge:   Dart Excalbur
+Cecil:  Elixir
+Edge:   Wait for Ice3
+        Dart Excalbur
+----
+****
+
+* Revive Cecil if dead.
+* Elixir Edge/FuSoYa/Cecil.
+* Swap FuSoYa/Cecil
+
+.CPU/Attacker/Defender (CPU: 20000HP, Attacker: 2000HP, Defender: 2000HP)
+****
+Party:: *Edge (48:730310) / Rosa (21:30629) / *Cecil (23:44796) / FuSoYa (50:1021198) / *Rydia (20:34805)
+Shadow Party:: Kain (48:700519) / Cid (46:692287)
+----
+Edge:   Dart Excalbur CPU
+Cecil:  Fight CPU
+FuSoYa: Quake
+Cecil:  Fight CPU
+Edge:   Dart Excalbur CPU
+FuSoYa: Quake
+----
+****
+
+* Board the Big Whale and head back to the moon.
+
+=== Moon, Part 2 to The End
+
+* Descend into the Lunar Subterrane.
+* Pick up the Protect Ring in the cave before B5.
+* Unequip Edge: Bandanna/Bl.Belt
+* Equip Cecil: any/any/Bandanna/Bl.Belt/Strength
+* Equip Kain: any/any/Headband/Karate/any
+* Equip Edge: any/any/Samurai/Samurai/Protect
+* Change rows, Swap Edge/Rosa, Swap Kain/Rydia
+* Proceed to the Lunar Core.
+* Use Smoke against Red Dragons.
+
+* Party: 2 front, Rosa/Kain/Cecil/Rydia/Edge
+Rosa/Edge/Cecil/Rydia/Kain 3 front
+
+.Zeromus (~61000HP+)
+****
+----
+Cecil:  Use Crystal
+Rosa:   Bersk Cecil
+Kain:   Parry??
+Edge:   Dart Excalbur
+Rydia:  Use Dancing
+Kain:   FIght
+
+
+
+Rosa:   Berserk Kain
+Edge:   Dart
+Rydia:  Ice1
+Cecil:  Parry
+Rosa:   Elixir Kain/Edge
+Edge:   Dart
+
+BIG BANG
+
+Cecil:  Elixir Edge
+Edge:   Dart/Elixir
+Cecil:  Elixir Kain
+Edge:   Dart
+Edge:   Elixir Kain
+Edge:   Dart
+Kain:   Elixir Edge
+
+BIG BANG
+
+Edge:   Elixir Edge
+Kain:   Elixir Kain
+Edge:   Dart
+Kain:   Elixir Nuked
+Edge:   Dart
+
+BIG BANG
+
+Kain:   Elixir Edge
+Edge:   Dart
+Kain:   Elixir Kain
+Edge:   Dart
+----
+* For the rest of the battle, Kain heals and Edge does the damage. Improvise.
+* Once he begins casting Meteo, it will take 2 darts/2 attacks or 3 darts to kill him.
+****
